@@ -1,7 +1,7 @@
 // this program gives us average of marks in an array using for each loop
 
 import java.util.Scanner;
-public class day_6_array2 {
+public class Day_6_array2 {
     public static void main( String[] args)
     {
         int []arr = new int[6];

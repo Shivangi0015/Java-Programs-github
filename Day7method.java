@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class day7method {
+public class Day7method {
 
 
    int sum(int x, int y)  // Class  METHOD -sum
@@ -15,7 +15,7 @@ public class day7method {
     {
         System.out.println("----------------------------------------------------------------------------------------------------------");
         System.out.println("\nNOTE- If the method is not static you'll have to make its object\n");
-        day7method obj = new day7method();  // Class object
+        Day7method obj = new Day7method();  // Class object
 
         // Taking inputs
         Scanner read = new Scanner(System.in);  //Scanner
